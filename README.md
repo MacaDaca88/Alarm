@@ -13,7 +13,7 @@ Pir motion sensor x1
 1x relay switch module
 1x microphone sensor
 1x playback recording sensor
-
+1x dht11 temp and humidity  sensor 
 My idea is to have a automated house, using light sensors to adjust led light strips.
 Pir motion sensors to trigger leds and sirens to alert intruder.
 You are able to sign in via fingerprint sensor or 1 of 2 keypads.
